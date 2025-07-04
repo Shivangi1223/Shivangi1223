@@ -1,7 +1,5 @@
 <!-- 🖼️ Top Banner: Girl Coder GIF -->
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/362/36246.gif" width="100%" alt="Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
 <h3 align="center">A frontend developer and MERN stack enthusiast, focused on building responsive, real-world web applications.</h3>
