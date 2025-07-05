@@ -35,9 +35,9 @@
   <a href="https://instagram.com/_shivi10__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivi10__" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/shivangi10" target="blank">
+<!--   <a href="https://www.leetcode.com/shivangi10" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivangi10" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
