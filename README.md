@@ -17,7 +17,8 @@
 </p>
 
 - 🔭 I’m currently working on **Hotel Booking Platform**  
-- 🌱 I’m currently learning **Node.js**   
+- 🌱 I’m currently learning **Backend Development**
+- 🛠️ Focused on writing clean and maintainable code 
 - 📫 How to reach me **singhshivangi21805@gmail.com**  
 - ⚡ Fun fact **My code works perfectly… until someone asks me how.**
 
