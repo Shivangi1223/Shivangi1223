@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Imagify-AI Image Generator**  
+- 💻 Currently working on **NextHire** – an AI-powered Placement Dashboard 
 - 🌱 I’m currently learning **Backend Development**
 - 🛠️ Focused on writing clean and maintainable code 
 - 📫 How to reach me **singhshivangi21805@gmail.com**  
