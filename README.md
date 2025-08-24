@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A frontend developer and MERN stack enthusiast, focused on building responsive, real-world web applications.</h3>
+<h3 align="center">A frontend developer and Full stack enthusiast, focused on building responsive, real-world web applications.</h3>
 
 <!-- 👩‍💻 Right Side: Coding Girl GIF -->
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" />
